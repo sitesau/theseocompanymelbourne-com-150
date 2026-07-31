@@ -1,0 +1,19 @@
+{
+  "wheel_id": 340,
+  "structure": "umbrella",
+  "slug": "theseocompanymelbourne-com-150",
+  "project": "seo-services-melbourne-c9fd10bb8f621ccae94b463885e22c34a94ceae4",
+  "parent_t1_ref": "theseocompanymelbourne.com-009",
+  "node_role": "buffer",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo services melbourne",
+  "intended_url": "https://sitesau.github.io/theseocompanymelbourne-com-150/",
+  "writeback_nonce": "71613c9e873e5e2e",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/theseocompanymelbourne.com-009/seo-services-melbourne.html",
+      "anchor": "seo services melbourne",
+      "rel": "follow"
+    }
+  ]
+}
